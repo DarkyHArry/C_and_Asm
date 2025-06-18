@@ -17,3 +17,19 @@ int main() {
         printf("%d ", array[i]);
     }
     printf("\n");
+
+    for (int i = 0; i < num_elementos; i++) {
+        array[i] = i + 1;
+    }
+
+    printf("Array preenchido:\n");
+    for (int i = 0; i < num_elementos; i++) {
+        printf("%d ", array[i]);
+    }
+    printf("\n");
+
+    free(array);
+    array = NULL;
+
+    return 0;
+}
