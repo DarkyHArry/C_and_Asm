@@ -1,7 +1,6 @@
 💻 Meu Repositório de Assembly e C
 <p align="center">
-<img src="<img width="760" height="570" alt="image" src="https://github.com/user-attachments/assets/c94ce93b-5306-4c4e-baf3-106f0059b442" />
-" alt="Logotipo do Projeto" width="200"/>
+<img src="https://i.imgur.com/" alt="Logotipo do Projeto" width="200"/>
 </p>
 
 Este repositório é uma coleção de projetos e exemplos que exploram a interação e a implementação de lógica em linguagens de baixo e médio nível: Assembly e C.
