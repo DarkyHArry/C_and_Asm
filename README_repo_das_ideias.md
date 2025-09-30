@@ -2,7 +2,7 @@
 
 ## Um espaço para aprender Assembly e C
 
-O **Repo das Ideias** é um repositório dedicado a guardar experimentos, anotações e projetos nas linguagens **Assembly** e **C**.  
+O em **Busca do código automático** é um repositório dedicado a guardar experimentos, anotações e projetos nas linguagens **Assembly** e **C**.  
 Aqui, o foco é **explorar conceitos fundamentais de baixo nível**, como manipulação direta de registradores, ponteiros e estruturas de dados.  
 É um espaço colaborativo de aprendizado, rascunho de ideias e prática de programação de sistemas.
 
@@ -51,4 +51,4 @@ int main() {
 Esse repositório não é apenas código, mas também um **laboratório criativo**,  
 onde ideias simples podem crescer e se transformar em projetos completos.  
 
-🚀 Seja bem-vindo ao **Repo das Ideias**
+🚀 Seja bem-vindo ao em **Busca do código automático**
